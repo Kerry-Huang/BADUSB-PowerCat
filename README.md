@@ -20,7 +20,7 @@ Make a BADUSB
   Select the “Digistump AVR Boards” package and click the “Install” button.  
 ![2](http://digistump.com//wiki/_media/digispark/tutorials/digispark_install.gif)  
   
-6.Open BADUSB.ino change "127.0.0.1" into your IP and Change "443" into the port which you want to use. 
+6.Open BADUSB_PowerCat.ino change "127.0.0.1" into your IP and Change "443" into the port which you want to use. 
   
 7.Upload it.  
   
